@@ -19,5 +19,5 @@ def change
     t.string :size
     t.timestamps
   end
-
+end
 end
